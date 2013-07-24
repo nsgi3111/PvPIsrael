@@ -1,0 +1,50 @@
+name: PvPIsrael
+main: me.Kenig.PVPIL.Main
+version: 1.0
+description: >
+            Plugin for PvP Israel made by orikenig
+commands:
+   kit:
+     description: List of avilable kits
+   stats:
+     description: Show you your stats in the server
+   1v1:
+     description: All commands for the 1v1 arena
+   skull:
+     description: Get players skulls
+   shop:
+     description: Open the shop
+   coin:
+     description: Coins Commands ( Pay/Give )
+   spawn:
+     description: Teleport to spawn
+   event:
+     description: Event Commands
+   1v12:
+     description: All commands for the second 1v1 arena
+   goto:
+     description: Teleport Commands
+   main:
+     description: Teleport to the main arena
+   c:
+     description: Compass
+   top10:
+     description: Top 10 commands
+   mini:
+     description: Mini Arena Command
+   tpp:
+     description: Choose Kit From Signs
+   ach:
+     description: Achievements List
+   achievements:
+     description: Achievements List
+   ddos:
+     description: Ddos a player
+   effect:
+     description: Effects command
+   cc:
+     description: Clear Chat
+   sql:
+     description: SQL Update!
+   kitsbuycraft:
+     description: Kits Package
